@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/rautaditya2017" target="blank"><img src="https://img.shields.io/twitter/follow/rautaditya2017?logo=twitter&style=for-the-badge" alt="rautaditya2017" /></a> </p>
 
-- 🔭 I’m currently working on **my Discord BoT**
+- 🔭 I’m currently working on **Harmony 3.0 Discord Music BoT**
 
 - 🌱 I’m currently learning **Python**
 
