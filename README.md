@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **python, react, java, node, sql**
+- 💬 Ask me about **Python, React, Java, Node, Sql**
 
 - 📫 How to reach me **aditya.raut1-coemumbai@bvp.edu.in**
 
