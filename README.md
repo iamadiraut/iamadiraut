@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Harmony 3.0 Discord Music BoT**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **react, java, node, sql**
+- 💬 Ask me about **python, react, java, node, sql**
 
 - 📫 How to reach me **aditya.raut1-coemumbai@bvp.edu.in**
 
